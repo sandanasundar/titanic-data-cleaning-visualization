@@ -1,4 +1,3 @@
-# titanic-data-cleaning-visualization
 # Titanic Data Cleaning and Visualization Project
 
 ## Overview
